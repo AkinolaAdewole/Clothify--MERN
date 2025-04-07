@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
         {/* newsletter subscription */}
         <div>
-            <h3 className='text-xl font-semibold'>Stay in the Loop</h3>
+            <h3 className='text-xl font-semibold'>Stay Connected</h3>
             <p className='mt-2 text-sm'>Subscribe to get special offers, free giveaways, and more</p>
             <form action="" className='mt-4 flex'>
                 <input 
@@ -54,7 +54,7 @@ const Footer = () => {
       </div>
       {/* bottom section */}
       <div className='mt-8 border-t border-gray-700 pt-6 text-center text-sm'>
-        <p>&copy; {new Date().getFullYear()}<span className='text-red-500'>Clothify</span>.All rights reserved</p>
+        <p>&copy; {new Date().getFullYear()}<span className='text-red-500'>Clothify</span>. All rights reserved</p>
       </div>
     </footer>
   )
