@@ -13,9 +13,9 @@ const Footer = () => {
               <img src={Logo} alt="" className='w-32'/>
             </Link>
             <p className='mt-2 text-sm'>High-quality, sustainable clothing at affordable prices.</p>
-            <p className='mt-2 text-sm'>123 Fashion St, Style City, NY 10001</p>
+            <p className='mt-2 text-sm'>123 Fashion St, Victoria Island, Lagos</p>
             <p className='text-sm'>Email: support@clothify.com</p>
-            <p className='text-sm'>Phone: (123) 456-7890</p>
+            <p className='text-sm'>Phone: (234) 814-474-4865</p>
         </div>
         {/* customer service link */}
         <div className='mb-6 md:mb-0'>
@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
         {/* newsletter subscription */}
         <div>
-            <h3 className='text-xl font-semibold'>Stay Connected</h3>
+            <h3 className='text-xl font-semibold'>Get the Latest Updates</h3>
             <p className='mt-2 text-sm'>Subscribe to get special offers, free giveaways, and more</p>
             <form action="" className='mt-4 flex'>
                 <input 
